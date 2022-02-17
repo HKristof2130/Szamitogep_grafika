@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645097550 source:h:\github\szamitogep_grafika\2.gyakorlat\rajzolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
