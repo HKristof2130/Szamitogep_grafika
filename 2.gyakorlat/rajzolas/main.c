@@ -1,3 +1,9 @@
+﻿#include <SDL.h>
+#include <SDL2_gfxPrimitives.h>
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -19,7 +25,7 @@ void getColor(Color* c);
 void setLine(Line* l);
 
 
-int main()
+int main(int argc, char *argv[])
 {
     Line l1;
     setLine(&l1);
